@@ -1,0 +1,9 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+lxml==4.6.3
+myutils==0.0.21
+openpyxl==3.0.7
+pathvalidate==2.4.1
+requests==2.25.1
+soupsieve==2.2.1
+urllib3==1.26.4
